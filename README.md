@@ -136,4 +136,4 @@ Desktop-based library management solution with:
 
 ### 💭 Motto
 
-> "Always learning, building, and improving."
+> "Always learning, building, and improving. "
