@@ -1,62 +1,137 @@
 # 👋 Hi, I'm Lakesh Kumar
 
-🚀 Software Engineering Student passionate about building real-world applications and improving problem-solving skills.
+🚀 Software Engineering Student | AI & Data Analytics Enthusiast | Building practical solutions with modern technologies.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 BS Software Engineering student  
-- 💻 Strong foundation in Java, DSA, and DBMS  
-- 🔧 Learning Git & GitHub for better development workflows  
-- 📈 Focused on building projects and improving coding skills  
+
+* 🎓 BS Software Engineering student at Sukkur IBA University
+* 🤖 Interested in Artificial Intelligence, Data Analytics, and Software Development
+* 🏆 Silver Tier Winner — Google AI Seekho 2026
+* 📊 Completed Deloitte Data Analytics Virtual Experience
+* 💡 Passionate about solving real-world problems through technology
+* 🌱 Continuously learning and building impactful projects
 
 ---
 
-## 🛠️ Skills
-- 💻 Java  
-- 📊 Data Structures & Algorithms  
-- 🔧 Git & GitHub  
-- 🗄️ MySQL / JDBC  
-- 🖥️ Java Swing  
-- ⚙️ C++  
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* Python
+* TypeScript
+* SQL
+* C++
+
+### Frameworks & Tools
+
+* React
+* Flutter
+* FastAPI
+* Git & GitHub
+* MySQL
+* PostgreSQL
+* Tableau
+* Excel
+
+### Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+* Data Analysis & Visualization
+* Cloud Deployment
+* UML
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-### 🔹 Library Management System (Multi-Semester Project)
-A progressive academic project developed across multiple semesters:
+### 🔹 StudyAI Pro — Silver Tier Winner
 
-- 📘 Semester 1: C++ (Console-based application)  
-- 🖥️ Semester 2: Java Swing (GUI-based system)  
-- 🗄️ Semester 2: DBMS Integration (MySQL + JDBC)  
-- ⚡ Semester 3: Java + DSA (logic optimization & performance improvements)  
+AI-powered study assistant that transforms notes into:
 
-👉 Focus: System design, GUI development, database integration, and optimized logic.
+* Summaries
+* Flashcards
+* Quizzes
+* Study Plans
+* Mind Maps
+* AI Tutor
 
----
-
-### 🔹 Bus Reservation & Locator System
-- Developed using Java  
-- Implements booking system and location tracking features  
-- Focus on structured programming and real-world problem solving  
+**Tech:** Google Gemini, Generative AI, Cloud Run, Education Technology
 
 ---
 
+### 🔹 CIRO – Crisis Intelligence & Response Orchestrator
 
-## 📚 Currently Learning
-- Advanced Data Structures & Algorithms  
-- Git & GitHub workflows  
-- Data Analytics (Python, Data Analysis, Visualization)  
-- Exploring Open Source Contribution  
+AI-powered crisis intelligence and emergency response platform developed during the AI Seekho 2026 Hackathon.
 
----
-
-## 🔗 Connect with Me
-- 🌐 Portfolio: https://lakeshkumar.vercel.app  
-- 💻 GitHub: https://github.com/lakeshkumarkhatri  
-- 🔗 LinkedIn: https://www.linkedin.com/in/lakesh-kumar/
+**Tech:** Flutter, FastAPI, Python, Google Gemini, Google Cloud Platform
 
 ---
 
-⭐ *Always learning, building, and improving!*
+### 🔹 CV Builder
+
+Professional resume creation platform featuring:
+
+* AI-powered Auto-Fill
+* ATS Score Analysis
+* Live Resume Preview
+* Multi-format Export (PDF, DOCX, PNG, TXT)
+
+**Tech:** React, TypeScript
+
+🔗 Live Demo: https://lakeshkumar.vercel.app/cv-builder
+
+---
+
+### 🔹 Library Management System
+
+Desktop-based Library Management System with:
+
+* Book Management
+* User Management
+* Record Tracking
+* Database-driven Search
+
+**Tech:** Java Swing, JDBC, MySQL
+
+---
+
+## 🏆 Achievements
+
+* 🥈 Silver Tier Winner — Google AI Seekho 2026
+* 📊 Completed Deloitte Data Analytics Virtual Experience Program
+* 🤖 Developed multiple AI-powered applications using Google Gemini
+* 🚀 Participated in AI Seekho Hackathon 2026
+
+---
+
+## 📜 Certifications
+
+* Intermediate SQL — DataCamp
+* Intermediate Python — DataCamp
+* Core Java Specialization — LearnQuest
+* Java Data Structures & Algorithms Specialization — Codio
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakeshkumarkhatri\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakeshkumarkhatri\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+* 🌍 Portfolio: https://lakeshkumar.vercel.app
+* 💼 LinkedIn: https://linkedin.com/in/lakesh-kumar
+* 💻 GitHub: https://github.com/lakeshkumarkhatri
+
+---
+
+⭐ Always learning, building, and improving.
