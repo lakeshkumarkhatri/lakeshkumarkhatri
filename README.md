@@ -1,17 +1,30 @@
 # 👋 Hi, I'm Lakesh Kumar
 
-🚀 Software Engineering Student | AI & Data Analytics Enthusiast | Building practical solutions with modern technologies.
+🚀 **Software Engineering Student | AI & Data Analytics Enthusiast**
+
+🏆 Google AI Seekho 2026 Silver Tier Winner
+📊 Deloitte Data Analytics Virtual Experience
+💡 Building practical AI-powered solutions and modern web applications
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 🎓 BS Software Engineering student at Sukkur IBA University
-* 🤖 Interested in Artificial Intelligence, Data Analytics, and Software Development
-* 🏆 Silver Tier Winner — Google AI Seekho 2026
+* 🤖 Passionate about Artificial Intelligence, Data Analytics, and Software Development
+* 🚀 Enjoy building projects that solve real-world problems
+* 📈 Continuously improving through projects, hackathons, internships, and certifications
+* 🌱 Exploring AI, Cloud Technologies, and Modern Development Tools
+
+---
+
+## 🏆 Achievements
+
+* 🥈 Silver Tier Winner — Google AI Seekho 2026
+* 🤖 Developed multiple AI-powered applications using Google Gemini
 * 📊 Completed Deloitte Data Analytics Virtual Experience
-* 💡 Passionate about solving real-world problems through technology
-* 🌱 Continuously learning and building impactful projects
+* 🚀 Participated in AI Seekho 2026 Hackathon
+* 💻 Built and deployed full-stack and AI-powered projects
 
 ---
 
@@ -19,60 +32,51 @@
 
 ### Languages
 
-* Java
-* Python
-* TypeScript
-* SQL
-* C++
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### Frameworks & Tools
 
-* React
-* Flutter
-* FastAPI
-* Git & GitHub
-* MySQL
-* PostgreSQL
-* Tableau
-* Excel
-
-### Concepts
-
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Database Management Systems (DBMS)
-* Data Analysis & Visualization
-* Cloud Deployment
-* UML
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 StudyAI Pro — Silver Tier Winner
+### 🤖 StudyAI Pro — Silver Tier Winner
 
 AI-powered study assistant that transforms notes into:
 
-* Summaries
+* Smart Summaries
 * Flashcards
 * Quizzes
 * Study Plans
 * Mind Maps
 * AI Tutor
 
-**Tech:** Google Gemini, Generative AI, Cloud Run, Education Technology
+**Tech:** Google Gemini, Generative AI, Cloud Run, EdTech
 
 ---
 
-### 🔹 CIRO – Crisis Intelligence & Response Orchestrator
+### 🚨 CIRO — Crisis Intelligence & Response Orchestrator
 
-AI-powered crisis intelligence and emergency response platform developed during the AI Seekho 2026 Hackathon.
+AI-powered crisis intelligence and emergency response platform developed during the AI Seekho Hackathon.
 
 **Tech:** Flutter, FastAPI, Python, Google Gemini, Google Cloud Platform
 
 ---
 
-### 🔹 CV Builder
+### 📄 CV Builder
 
 Professional resume creation platform featuring:
 
@@ -87,25 +91,16 @@ Professional resume creation platform featuring:
 
 ---
 
-### 🔹 Library Management System
+### 📚 Library Management System
 
-Desktop-based Library Management System with:
+Desktop-based library management solution with:
 
-* Book Management
+* Book Tracking
 * User Management
-* Record Tracking
-* Database-driven Search
+* Record Handling
+* Database Search
 
 **Tech:** Java Swing, JDBC, MySQL
-
----
-
-## 🏆 Achievements
-
-* 🥈 Silver Tier Winner — Google AI Seekho 2026
-* 📊 Completed Deloitte Data Analytics Virtual Experience Program
-* 🤖 Developed multiple AI-powered applications using Google Gemini
-* 🚀 Participated in AI Seekho Hackathon 2026
 
 ---
 
@@ -118,20 +113,23 @@ Desktop-based Library Management System with:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakeshkumarkhatri\&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakeshkumarkhatri\&layout=compact\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakeshkumarkhatri\&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=lakeshkumarkhatri)
 
 ---
 
 ## 🌐 Connect With Me
 
-* 🌍 Portfolio: https://lakeshkumar.vercel.app
 * 💼 LinkedIn: https://linkedin.com/in/lakesh-kumar
+* 🌍 Portfolio: https://lakeshkumar.vercel.app
 * 💻 GitHub: https://github.com/lakeshkumarkhatri
+* 📧 Email: [lakeshkumarkhatri7@gmail.com](mailto:lakeshkumarkhatri7@gmail.com)
 
 ---
 
-⭐ Always learning, building, and improving.
+### 💭 Motto
+
+> "Always learning, building, and improving."
