@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Lakesh Kumar Banner" width="100%">
+</p>
 # 👋 Hi, I'm Lakesh Kumar
 
 🚀 **Software Engineering Student | AI & Data Analytics Enthusiast**
