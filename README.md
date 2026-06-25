@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="banner.png" alt="Lakesh Kumar Banner" width="100%">
 </p>
@@ -151,4 +150,3 @@ lakeshkumarkhatri7@gmail.com
 ## 💭 Motto
 
 > **Building intelligent software with AI, one project at a time.**
-```
